@@ -4,11 +4,14 @@
   
   #show-balance {
     display: block;
+    background-color: skyblue;
+    border-radius:10px;
   }
   
-  h1{
+  #header{
     background-color: skyblue;
     border-radius: 10px;
+    padding-top: 80px;
   }
   .container{
     background-color: slategray;
