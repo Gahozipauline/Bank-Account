@@ -4,6 +4,8 @@
 
 #show-balance {
   display: block;
+  background-color: skyblue;
+  padding-bottom: 20px;
 }
 .container{
   background-color: slategray;
@@ -11,6 +13,7 @@
 #header{
   background-color: skyblue;
   border-radius: 20px;
+  padding-top: 20px;
 }
   
  
