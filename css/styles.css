@@ -1,9 +1,9 @@
 #manage-money {
-  display: none;
+  display: block;
 }
 
 #show-balance {
-  display: none;
+  display: block;
   background-color: skyblue;
   padding-bottom: 20px;
   border-radius: 20px;
