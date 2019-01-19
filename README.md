@@ -6,6 +6,11 @@ Pauline Gashozi AYINGENEYE
 Bank Account Application deals about opening account and people can deposit and withdraw money on their account
 # Project setup instruction
 You can creat account and withdraw and deposit money
+# Technologies used
+css
+Javascripts
+HTML
+jQUERY
 # Link to link sites on github
 https://github.com/Gahozipauline/Bank-Account
 # copyright&Licence information
