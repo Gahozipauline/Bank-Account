@@ -1,22 +1,13 @@
 #manage-money {
-    display: block;
-  }
-  
-  #show-balance {
-    display: block;
-    background-color: skyblue;
-    border-radius:10px;
-  }
-  
-  #header{
-    background-color: skyblue;
-    border-radius: 10px;
-    padding-top: 80px;
-    
-  }
-  .container{
-    background-color: slategray;
-  }
+  display: block;
+}
+
+#show-balance {
+  display: block;
+}
+.container{
+  background-color: slategray;
+}
   
  
   
